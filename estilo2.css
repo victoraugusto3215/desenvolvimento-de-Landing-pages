@@ -1,0 +1,74 @@
+* 
+{
+    margin: 0 auto;
+}
+.logo
+{
+    float: left;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+nav
+{
+    background-color: #3DBCD9;
+    height: 55px;
+    margin-bottom: 5px;
+}
+
+a
+{
+    color: #fff;
+    text-decoration: none;
+    position: center;
+}
+
+ul
+{
+    text-decoration: none;
+    list-style: none;
+}
+
+.banner
+{
+    float: center;
+}
+
+
+.nav-list
+{
+    list-style: none;
+    display: flex;
+}
+
+.nav-list li
+{
+    letter-spacing: 6px;
+    margin-left: 32px;
+    padding-top: 18px;
+}
+
+
+footer
+{
+    background-color: #3DBCD9;
+    height: 55px;
+    padding-top: 5px;
+    margin-top: 6px;
+
+}
+
+.anterior
+{
+    float: left;
+    
+    margin-left: 15px;
+    margin-top: -44px;
+}
+
+.proximo
+    
+{
+    float:right;
+    margin-right:  6px;
+    margin-top: -44px;
+}
